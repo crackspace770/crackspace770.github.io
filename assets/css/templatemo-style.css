@@ -12,6 +12,17 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+.jumbotron {
+    font-size: 20px;
+    padding: 60px;
+    background-size: cover;
+    background-image:url('../images/jumbotron.png') !important;
+    text-align: center;
+    color: white;
+    height: 350px;
+    
+    }
+
 .custom_nav li a:hover,.custom_nav li a:focus{
 	color: #FFD200 !important;
 	text-decoration: none;
